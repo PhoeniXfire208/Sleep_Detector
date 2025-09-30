@@ -3,8 +3,8 @@
 #include <PubSubClient.h>
 
 // Настройки Wi-Fi
-const char* ssid = "PhoeniXfire";
-const char* password = "34553455";
+//const char* ssid = "PhoeniXfire";
+//const char* password = "34553455";
 
 // Настройки MQTT
 const char* mqtt_server = "test.mosquitto.org"; // Бесплатный публичный брокер
